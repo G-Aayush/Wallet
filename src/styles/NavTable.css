@@ -1,0 +1,25 @@
+.NavTableBack
+{
+    height: 250px;
+    width: 100vw;
+    background-color:#faf2f9;
+}
+.Tabledev
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    font-size: 25px;
+    width: 70%;
+    border: 1px;
+    background-color: #FFFFFF;
+
+}
+.TableData
+{
+    text-align: left;
+    border: 1px solid;
+    padding-left:3%;
+    padding-top:30px;
+    padding-bottom:20px;
+}

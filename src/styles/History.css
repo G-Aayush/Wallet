@@ -1,0 +1,66 @@
+.HistoryHeading
+{
+    display:flex;
+    width:70%;
+    height:40px;
+    margin-right:15%;
+    margin-left:15%;
+    margin-top:15px;
+    margin-bottom:2px;
+}
+.HistoryHeader
+{
+    font-size: 30px;
+    padding-left: 5%;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:#2d95d6;
+    align-items: left;
+}
+
+.HistorySearch
+{
+    background-color: #FFFFFF;
+    border:1px solid;
+    align-items:right;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-right:0px;
+}
+.HistorySearchIcon
+{
+    padding-right: 5%;
+    align-items: right;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left: 0px;
+}
+.HistoryTable
+{
+    width:60%;
+    background-color: #e3e1e1;
+    margin-top:10px;
+    margin-left:20%;
+    border:1px solid;
+    
+}
+.HistoryTableRow
+{
+    border:1px solid;
+    font-size: 20px;
+    height: 25px;
+}
+.HTDataDesc
+{
+    align-items: left;
+    padding-left:5%;
+    padding-top:2.5px;
+    padding-bottom: 2.5px;
+}
+.HTDataAmount
+{
+    align-items: right;
+    padding-right:5%;
+    padding-top:2.5px;
+    padding-bottom: 2.5px;
+}

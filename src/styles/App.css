@@ -1,0 +1,11 @@
+body, .App {
+    margin: 0;
+    padding: 0;
+    background-color:#faf2f9;
+}
+.AddMoneyHeading
+{
+    color : #2d95d6;
+    text-align: center;
+    font-size: 40px;
+}

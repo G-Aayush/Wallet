@@ -1,0 +1,97 @@
+.TransferMoneyTable
+{
+    width:100%;
+    display: flex;
+}
+.TransferMoneyAcc
+{
+    margin-right : 10%;
+    width:35%;
+    margin-left:5%;
+    border: 1px solid;
+    border-radius:10px;
+    background-color: rgb(205, 203, 200);
+}
+.TransferMoneyHeading
+{
+    color : #2d95d6;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10%;
+    padding-bottom:10%;
+}
+.TransferMoneyLabel
+{
+    color:black;
+    font-size: 20px ;
+    text-align: left;
+    margin-left:10%;
+}
+.SubmitBtnTM
+{
+  border-radius: 4px;
+  height: 30px;
+  background: #2399cc;
+  /*padding: 10px 22px;*/
+  color: #FFFFFF;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  margin-left: 25%;
+  margin-top:10px;
+  width: 50%;
+  align-items: center;
+  font-size:25px;
+}
+.SubmitBtnTMa
+{
+  display: flex;
+  padding-left:40%;
+}
+.TransferAccountTable
+{
+    margin-right : 5%;
+    width:35%;
+    margin-left:10%;
+    border: 1px solid;
+    border-radius:10px;
+    background-color: rgb(205, 203, 200);
+}
+.TransferMoneyHeading
+{
+    color : #2d95d6;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10%;
+    padding-bottom:10%;
+}
+.SubmitBtnTA
+{
+  border-radius: 4px;
+  height: 30px;
+  background: #2399cc;
+  /*padding: 10px 22px;*/
+  color: #FFFFFF;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  margin-top:40px;
+  margin-left: 25%;
+  width: 50%;
+  align-items: center;
+  font-size:25px;
+}
+.SubmitBtnTAa
+{
+  display: flex;
+  padding-left:10%;
+}
+.TMF
+{
+  margin-top:10px;
+  margin-bottom:10px;
+}

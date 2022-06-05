@@ -1,0 +1,56 @@
+.Submitbt
+{
+  border-radius: 4px;
+  height: 30px;
+  background: #2399cc;
+  /*padding: 10px 22px;*/
+  color: #FFFFFF;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  margin-left: 31%;
+  margin-top:20px;
+  margin-bottom:10px;
+  width: 400px;
+  align-items: center;
+  font-size:20px;
+}
+.Submitbta
+{
+  display: flex;
+  padding-left:40%;
+}
+.BudgetAmount
+{
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:20px;
+    font-size: 20px;
+    color:black;
+    display:flex;
+}
+.BudgetType
+{ 
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:20px;
+    font-size: 20px;
+    color:black;
+    display:flex;
+}
+.BudgetCategory
+{
+    font-size: 25px;
+
+}
+.Budget
+{
+    background-color: #e8e3e3;
+    margin-left:20%;
+    margin-right:20%;
+    margin-bottom:30px;
+    border:1px solid;
+    border-radius:5px;
+}

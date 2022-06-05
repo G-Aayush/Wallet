@@ -1,0 +1,68 @@
+.AddMoneyTable
+{
+    display:flex;    
+}
+
+.AmountAddTable{
+    background-color: #e3e1e1;
+    border:2px solid;
+    border-radius: 25px;
+    width: 350px;
+    height: 300px;
+}
+
+.PeriodStyle
+{
+    display:flex;
+}
+.AddMoneyBack
+{
+    margin-top: 20px;
+    margin-left : 23%;
+    margin-right: 5%;
+    margin-bottom: 20px;
+}
+.TableDataa
+{
+    padding-top: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+    padding-right:auto;
+    height: 50px;
+}
+.TableDatab
+{
+    padding-top: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+    padding-right:auto;
+}
+.PeriodData
+{
+    padding-top:50px;
+    padding-left:20px;
+    font-size: 20px;
+}
+.Submitbtn
+{
+  border-radius: 4px;
+  height: 30px;
+  background: #2399cc;
+  /*padding: 10px 22px;*/
+  color: #FFFFFF;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  margin-left: 37%;
+  width: 400px;
+  align-items: center;
+  font-size:25px;
+}
+.Submitbtna
+{
+  display: flex;
+  padding-left:36%;
+
+}
